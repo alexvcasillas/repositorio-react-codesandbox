@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Comienza editando en tiempo real {"\u2728"}</h2>
+    <h2>Este es un cambio de Alex desde codesandbox</h2>
   </div>
 );
 
