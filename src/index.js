@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Este es un cambio de Alex desde codesandbox</h2>
+    <h2>Este es un cambio de Alex desde codesandbox, mi cambio sobre el pull request</h2>
   </div>
 );
 
